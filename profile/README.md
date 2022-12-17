@@ -35,6 +35,8 @@
 
 ## 개발환경 & 기술
 
+<img src="https://user-images.githubusercontent.com/50227341/208224314-7f49affe-a71b-4e36-98a1-0c6852747e02.png"  /> 
+
 ### Android 
 - Kotlin
 - Android Studio
@@ -50,7 +52,6 @@
 - goormIDE
 - JPA
 - Maven
-
 
 ## 팀 소개
 
