@@ -18,7 +18,7 @@
 ### 
 
 ## 프로젝트 화면
-<img src="https://user-images.githubusercontent.com/50227341/207987982-b7bb0360-0248-4e80-8bc9-46ce15bd1f9f.svg" />
+<img src="https://user-images.githubusercontent.com/50227341/208225078-f022a191-9020-452e-8337-509067efbc53.png" />
 
 
 ## 링크
